@@ -1,4 +1,4 @@
 package com.example.rocket;
-//adding square
+//adding square shape
 public class square {
 }
