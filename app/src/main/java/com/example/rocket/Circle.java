@@ -4,6 +4,8 @@ public class Circle extends Shape{
     private int circumference;
     private int area;
 
+    private String color = "indigo";
+
     public Circle(int circumference) {
         this.circumference = circumference;
     }
